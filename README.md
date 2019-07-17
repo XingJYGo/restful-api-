@@ -1,6 +1,6 @@
 # restful api -
 后台微博“增删改查”接口简易创建：
-RESTful API实现增删改查的接口小案例
+RESTful API实现增删改查的接口小案例。
 python+flask+sqlite3数据库
 
 使用操作:
@@ -18,7 +18,7 @@ POSTS = [
 
 2 运行flaskStart.py文件:
 
-调用请求方法,返回对应键的值.
+调用请求方法,返回对应键的值
 
 ```
 # posts 请求的具体资源
