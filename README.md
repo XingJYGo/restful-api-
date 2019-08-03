@@ -7,7 +7,7 @@ python+flask+sqlite3数据库
 
 模拟数据库内容:
 
-1 模拟数据库内容(也可以操作sqlite3存储数据)
+1 模拟数据库内容(也可以操作sqlite3存储数据)。。
 
 POSTS = [
 	{},
